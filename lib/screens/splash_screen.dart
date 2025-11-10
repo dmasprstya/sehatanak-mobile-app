@@ -21,7 +21,7 @@ class SplashScreen extends StatelessWidget {
             Icon(Icons.child_care, color: Colors.white, size: 100),
             SizedBox(height: 20),
             Text(
-              "SehatAnak",
+              "Sehat Anak",
               style: TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,

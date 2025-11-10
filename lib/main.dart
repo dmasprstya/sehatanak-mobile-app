@@ -63,7 +63,7 @@ class _SehatAnakAppState extends State<SehatAnakApp> {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'SehatAnak',
+      title: 'Sehat Anak',
       theme: ThemeData(fontFamily: 'Poppins'),
       home: screen,
     );
